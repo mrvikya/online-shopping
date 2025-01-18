@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.slider{
+    margin-top: 10px;
+    width: 100%;
+    height: 350px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+figure{
+    position: relative;
+    left: 0;
+    width: 400%;
+    animation:10s slide infinite ;
+}
+.slide{
+    position: relative;
+    width: 25%;
+    float: left;
+}
+.slide img{
+    height: 350px;
+    border-radius: 10px;
+    width: 100%;
+
+}
+
+.image-container-home {
+    margin-top: 20px;
+    margin-left: 1%;
+    display: flex;
+    width: 98%;
+    height: 300px;
+    background-color: azure;
+    border-radius: 10px;
+
+  }
+  .nav-signin a{
+    text-decoration: none;
+    color: white;
+  }
+  .back a{
+    text-decoration: none;
+    color: white;
+  }
+  
+  .image-box-home {
+    width: 240px;
+    margin: 10px;
+    margin-right: 20px;
+    background-color: azure;
+  }
+  
+  .image-box-home img {
+    width: 240px;
+    margin-top: 10px;
+    margin: 5px;
+    height: 250px; 
+    border-radius: 10px;
+  }
+  
+  .image-box-home span {
+    font-size: 14px;
+    color: black;
+    margin-left: 50px;
+    background-color: azure;
+  }
+  .bath{
+    background-color: #ffefd5;
+  }
+
+
+
+  .slider1{
+    margin-top: 10px;
+    width: 100%;
+    height: 350px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+figure{
+    position: relative;
+    left: 0;
+    width: 400%;
+    animation:10s slide infinite ;
+}
+.slide1{
+    position: relative;
+    width: 25%;
+    float: left;
+}
+.slide1 img{
+    height: 350px;
+    border-radius: 10px;
+    width: 100%;
+
+}
+
+.image-container-home1 {
+    margin-top: 20px;
+    margin-left: 1%;
+    display: flex;
+
+    width: 98%;
+    height: 300px;
+  
+    border-radius: 10px;
+
+  }
+  
+  .image-box-home1 {
+    width: 240px;
+    margin: 0px;
+ 
+  }
+  
+  .image-box-home1 img {
+    width: 240px;
+    margin-top: 10px;
+    margin: 5px;
+    height: 250px; 
+    border-radius: 10px;
+  }
+  
+  .image-box-home1 span {
+    font-size: 14px;
+    color: black;
+    margin-left: 50px;
+   
+  }
+  
