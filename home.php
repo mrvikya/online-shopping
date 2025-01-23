@@ -21,27 +21,99 @@
       <div class="image-container-home">
         <div class="image-box-home">
           <img src="home1/bedshit.1.jpg" alt="Image 1">
-          <span>Shop Now</span>
+          
+<div class="AddToCart">
+      <form action="add_to_cart.php" method="POST" style="display: inline;">
+            <input type="hidden" name="item_id" value="29"> <!-- Replace '1' with the actual item ID -->
+            <button class="addtocart" type="submit">Add To Cart</button>
+        </form>
+        <form action="payment.php" method="POST">
+            <input type="hidden" name="item_id" value="29"> <!-- Replace '1' with the actual item ID -->
+            <input type="hidden" name="item_name" value="Sofa">
+            <input type="hidden" name="item_price" value="10000">
+            <button class="buy" type="submit">Buy Now</button>
+        </form>
+</div>
         </div>
         <div class="image-box-home">
           <img src="home1/bedshit.2.jpg" alt="Image 2">
-          <span>Shop Now</span>
+          
+<div class="AddToCart">
+      <form action="add_to_cart.php" method="POST" style="display: inline;">
+            <input type="hidden" name="item_id" value="30"> <!-- Replace '1' with the actual item ID -->
+            <button class="addtocart" type="submit">Add To Cart</button>
+        </form>
+        <form action="payment.php" method="POST">
+            <input type="hidden" name="item_id" value="30"> <!-- Replace '1' with the actual item ID -->
+            <input type="hidden" name="item_name" value="Sofa">
+            <input type="hidden" name="item_price" value="10000">
+            <button class="buy" type="submit">Buy Now</button>
+        </form>
+</div>
         </div>
         <div class="image-box-home">
           <img src="home1/bedshit.5.jpg" alt="Image 3">
-          <span>Shop Now</span>
+          
+<div class="AddToCart">
+      <form action="add_to_cart.php" method="POST" style="display: inline;">
+            <input type="hidden" name="item_id" value="31"> <!-- Replace '1' with the actual item ID -->
+            <button class="addtocart" type="submit">Add To Cart</button>
+        </form>
+        <form action="payment.php" method="POST">
+            <input type="hidden" name="item_id" value="31"> <!-- Replace '1' with the actual item ID -->
+            <input type="hidden" name="item_name" value="Sofa">
+            <input type="hidden" name="item_price" value="10000">
+            <button class="buy" type="submit">Buy Now</button>
+        </form>
+</div>
         </div>
         <div class="image-box-home">
           <img src="home1/bedshit.4.jpg" alt="Image 4">
-          <span>Shop Now</span>
+          
+<div class="AddToCart">
+      <form action="add_to_cart.php" method="POST" style="display: inline;">
+            <input type="hidden" name="item_id" value="32"> <!-- Replace '1' with the actual item ID -->
+            <button class="addtocart" type="submit">Add To Cart</button>
+        </form>
+        <form action="payment.php" method="POST">
+            <input type="hidden" name="item_id" value="32"> <!-- Replace '1' with the actual item ID -->
+            <input type="hidden" name="item_name" value="Sofa">
+            <input type="hidden" name="item_price" value="10000">
+            <button class="buy" type="submit">Buy Now</button>
+        </form>
+</div>
         </div>
         <div class="image-box-home">
           <img src="home1/bedshit.3.jpg" alt="Image 5">
-          <span>Shop Now</span>
+          
+<div class="AddToCart">
+      <form action="add_to_cart.php" method="POST" style="display: inline;">
+            <input type="hidden" name="item_id" value="33"> <!-- Replace '1' with the actual item ID -->
+            <button class="addtocart" type="submit">Add To Cart</button>
+        </form>
+        <form action="payment.php" method="POST">
+            <input type="hidden" name="item_id" value="33"> <!-- Replace '1' with the actual item ID -->
+            <input type="hidden" name="item_name" value="Sofa">
+            <input type="hidden" name="item_price" value="10000">
+            <button class="buy" type="submit">Buy Now</button>
+        </form>
+</div>
         </div>
         <div class="image-box-home">
           <img src="home1/bedshit.6.jpg" alt="Image 6">
-          <span>Shop Now</span>
+          
+<div class="AddToCart">
+      <form action="add_to_cart.php" method="POST" style="display: inline;">
+            <input type="hidden" name="item_id" value="34"> <!-- Replace '1' with the actual item ID -->
+            <button class="addtocart" type="submit">Add To Cart</button>
+        </form>
+        <form action="payment.php" method="POST">
+            <input type="hidden" name="item_id" value="34"> <!-- Replace '1' with the actual item ID -->
+            <input type="hidden" name="item_name" value="Sofa">
+            <input type="hidden" name="item_price" value="10000">
+            <button class="buy" type="submit">Buy Now</button>
+        </form>
+</div>
         </div>
       </div>
       
@@ -55,27 +127,99 @@
       <div class="image-container-home">
         <div class="image-box-home">
           <img src="home1/home.1.jpg" alt="Image 1">
-          <span>Shop Now</span>
+          
+<div class="AddToCart">
+      <form action="add_to_cart.php" method="POST" style="display: inline;">
+            <input type="hidden" name="item_id" value="35"> <!-- Replace '1' with the actual item ID -->
+            <button class="addtocart" type="submit">Add To Cart</button>
+        </form>
+        <form action="payment.php" method="POST">
+            <input type="hidden" name="item_id" value="35"> <!-- Replace '1' with the actual item ID -->
+            <input type="hidden" name="item_name" value="Sofa">
+            <input type="hidden" name="item_price" value="10000">
+            <button class="buy" type="submit">Buy Now</button>
+        </form>
+</div>
         </div>
         <div class="image-box-home">
           <img src="home1/home.2.jpg" alt="Image 2">
-          <span>Shop Now</span>
+          
+<div class="AddToCart">
+      <form action="add_to_cart.php" method="POST" style="display: inline;">
+            <input type="hidden" name="item_id" value="36"> <!-- Replace '1' with the actual item ID -->
+            <button class="addtocart" type="submit">Add To Cart</button>
+        </form>
+        <form action="payment.php" method="POST">
+            <input type="hidden" name="item_id" value="36"> <!-- Replace '1' with the actual item ID -->
+            <input type="hidden" name="item_name" value="Sofa">
+            <input type="hidden" name="item_price" value="10000">
+            <button class="buy" type="submit">Buy Now</button>
+        </form>
+</div>
         </div>
         <div class="image-box-home">
           <img src="home1/home.3.jpg" alt="Image 3">
-          <span>Shop Now</span>
+          
+<div class="AddToCart">
+      <form action="add_to_cart.php" method="POST" style="display: inline;">
+            <input type="hidden" name="item_id" value="37"> <!-- Replace '1' with the actual item ID -->
+            <button class="addtocart" type="submit">Add To Cart</button>
+        </form>
+        <form action="payment.php" method="POST">
+            <input type="hidden" name="item_id" value="37"> <!-- Replace '1' with the actual item ID -->
+            <input type="hidden" name="item_name" value="Sofa">
+            <input type="hidden" name="item_price" value="10000">
+            <button class="buy" type="submit">Buy Now</button>
+        </form>
+</div>
         </div>
         <div class="image-box-home">
           <img src="home1/home.4.jpg" alt="Image 4">
-          <span>Shop Now</span>
+          
+<div class="AddToCart">
+      <form action="add_to_cart.php" method="POST" style="display: inline;">
+            <input type="hidden" name="item_id" value="38"> <!-- Replace '1' with the actual item ID -->
+            <button class="addtocart" type="submit">Add To Cart</button>
+        </form>
+        <form action="payment.php" method="POST">
+            <input type="hidden" name="item_id" value="38"> <!-- Replace '1' with the actual item ID -->
+            <input type="hidden" name="item_name" value="Sofa">
+            <input type="hidden" name="item_price" value="10000">
+            <button class="buy" type="submit">Buy Now</button>
+        </form>
+</div>
         </div>
         <div class="image-box-home">
           <img src="home1/home.5.jpg" alt="Image 5">
-          <span>Shop Now</span>
+          
+<div class="AddToCart">
+      <form action="add_to_cart.php" method="POST" style="display: inline;">
+            <input type="hidden" name="item_id" value="39"> <!-- Replace '1' with the actual item ID -->
+            <button class="addtocart" type="submit">Add To Cart</button>
+        </form>
+        <form action="payment.php" method="POST">
+            <input type="hidden" name="item_id" value="39"> <!-- Replace '1' with the actual item ID -->
+            <input type="hidden" name="item_name" value="Sofa">
+            <input type="hidden" name="item_price" value="10000">
+            <button class="buy" type="submit">Buy Now</button>
+        </form>
+</div>
         </div>
         <div class="image-box-home">
           <img src="home1/home.6.jpg" alt="Image 6">
-          <span>Shop Now</span>
+          
+<div class="AddToCart">
+      <form action="add_to_cart.php" method="POST" style="display: inline;">
+            <input type="hidden" name="item_id" value="40"> <!-- Replace '1' with the actual item ID -->
+            <button class="addtocart" type="submit">Add To Cart</button>
+        </form>
+        <form action="payment.php" method="POST">
+            <input type="hidden" name="item_id" value="40"> <!-- Replace '1' with the actual item ID -->
+            <input type="hidden" name="item_name" value="Sofa">
+            <input type="hidden" name="item_price" value="10000">
+            <button class="buy" type="submit">Buy Now</button>
+        </form>
+</div>
         </div>
       </div>
 
@@ -91,27 +235,99 @@
       <div class="image-container-home1">
         <div class="image-box-home1">
           <img src="home1/home.7.jpg" alt="Image 1">
-          <span>Shop Now</span>
+          
+<div class="AddToCart">
+      <form action="add_to_cart.php" method="POST" style="display: inline;">
+            <input type="hidden" name="item_id" value="41"> <!-- Replace '1' with the actual item ID -->
+            <button class="addtocart" type="submit">Add To Cart</button>
+        </form>
+        <form action="payment.php" method="POST">
+            <input type="hidden" name="item_id" value="41"> <!-- Replace '1' with the actual item ID -->
+            <input type="hidden" name="item_name" value="Sofa">
+            <input type="hidden" name="item_price" value="10000">
+            <button class="buy" type="submit">Buy Now</button>
+        </form>
+</div>
         </div>
         <div class="image-box-home1">
           <img src="home1/home.8.jpg" alt="Image 2">
-          <span>Shop Now</span>
+          
+<div class="AddToCart">
+      <form action="add_to_cart.php" method="POST" style="display: inline;">
+            <input type="hidden" name="item_id" value="42"> <!-- Replace '1' with the actual item ID -->
+            <button class="addtocart" type="submit">Add To Cart</button>
+        </form>
+        <form action="payment.php" method="POST">
+            <input type="hidden" name="item_id" value="42"> <!-- Replace '1' with the actual item ID -->
+            <input type="hidden" name="item_name" value="Sofa">
+            <input type="hidden" name="item_price" value="10000">
+            <button class="buy" type="submit">Buy Now</button>
+        </form>
+</div>
         </div>
         <div class="image-box-home1">
           <img src="home1/home.9.jpg" alt="Image 3">
-          <span>Shop Now</span>
+          
+<div class="AddToCart">
+      <form action="add_to_cart.php" method="POST" style="display: inline;">
+            <input type="hidden" name="item_id" value="43"> <!-- Replace '1' with the actual item ID -->
+            <button class="addtocart" type="submit">Add To Cart</button>
+        </form>
+        <form action="payment.php" method="POST">
+            <input type="hidden" name="item_id" value="43"> <!-- Replace '1' with the actual item ID -->
+            <input type="hidden" name="item_name" value="Sofa">
+            <input type="hidden" name="item_price" value="10000">
+            <button class="buy" type="submit">Buy Now</button>
+        </form>
+</div>
         </div>
         <div class="image-box-home1">
           <img src="home1/home.10.jpg" alt="Image 4">
-          <span>Shop Now</span>
+          
+<div class="AddToCart">
+      <form action="add_to_cart.php" method="POST" style="display: inline;">
+            <input type="hidden" name="item_id" value="44"> <!-- Replace '1' with the actual item ID -->
+            <button class="addtocart" type="submit">Add To Cart</button>
+        </form>
+        <form action="payment.php" method="POST">
+            <input type="hidden" name="item_id" value="44"> <!-- Replace '1' with the actual item ID -->
+            <input type="hidden" name="item_name" value="Sofa">
+            <input type="hidden" name="item_price" value="10000">
+            <button class="buy" type="submit">Buy Now</button>
+        </form>
+</div>
         </div>
         <div class="image-box-home1">
           <img src="home1/home.11.jpg" alt="Image 5">
-          <span>Shop Now</span>
+          
+<div class="AddToCart">
+      <form action="add_to_cart.php" method="POST" style="display: inline;">
+            <input type="hidden" name="item_id" value="45"> <!-- Replace '1' with the actual item ID -->
+            <button class="addtocart" type="submit">Add To Cart</button>
+        </form>
+        <form action="payment.php" method="POST">
+            <input type="hidden" name="item_id" value="45"> <!-- Replace '1' with the actual item ID -->
+            <input type="hidden" name="item_name" value="Sofa">
+            <input type="hidden" name="item_price" value="10000">
+            <button class="buy" type="submit">Buy Now</button>
+        </form>
+</div>
         </div>
         <div class="image-box-home1">
           <img src="home1/home.12.jpg" alt="Image 6">
-          <span>Shop Now</span>
+          
+<div class="AddToCart">
+      <form action="add_to_cart.php" method="POST" style="display: inline;">
+            <input type="hidden" name="item_id" value="46"> <!-- Replace '1' with the actual item ID -->
+            <button class="addtocart" type="submit">Add To Cart</button>
+        </form>
+        <form action="payment.php" method="POST">
+            <input type="hidden" name="item_id" value="46"> <!-- Replace '1' with the actual item ID -->
+            <input type="hidden" name="item_name" value="Sofa">
+            <input type="hidden" name="item_price" value="10000">
+            <button class="buy" type="submit">Buy Now</button>
+        </form>
+</div>
         </div>
       </div>
       </div>
@@ -127,27 +343,99 @@
       <div class="image-container-home">
         <div class="image-box-home">
           <img src="home1/home13.jpg" alt="Image 1">
-          <span>Shop Now</span>
+          
+<div class="AddToCart">
+      <form action="add_to_cart.php" method="POST" style="display: inline;">
+            <input type="hidden" name="item_id" value="47"> <!-- Replace '1' with the actual item ID -->
+            <button class="addtocart" type="submit">Add To Cart</button>
+        </form>
+        <form action="payment.php" method="POST">
+            <input type="hidden" name="item_id" value="47"> <!-- Replace '1' with the actual item ID -->
+            <input type="hidden" name="item_name" value="Sofa">
+            <input type="hidden" name="item_price" value="10000">
+            <button class="buy" type="submit">Buy Now</button>
+        </form>
+</div>
         </div>
         <div class="image-box-home">
           <img src="home1/home14.jpg" alt="Image 2">
-          <span>Shop Now</span>
+          
+<div class="AddToCart">
+      <form action="add_to_cart.php" method="POST" style="display: inline;">
+            <input type="hidden" name="item_id" value="48"> <!-- Replace '1' with the actual item ID -->
+            <button class="addtocart" type="submit">Add To Cart</button>
+        </form>
+        <form action="payment.php" method="POST">
+            <input type="hidden" name="item_id" value="48"> <!-- Replace '1' with the actual item ID -->
+            <input type="hidden" name="item_name" value="Sofa">
+            <input type="hidden" name="item_price" value="10000">
+            <button class="buy" type="submit">Buy Now</button>
+        </form>
+</div>
         </div>
         <div class="image-box-home">
           <img src="home1/home15.jpg" alt="Image 3">
-          <span>Shop Now</span>
+          
+<div class="AddToCart">
+      <form action="add_to_cart.php" method="POST" style="display: inline;">
+            <input type="hidden" name="item_id" value="49"> <!-- Replace '1' with the actual item ID -->
+            <button class="addtocart" type="submit">Add To Cart</button>
+        </form>
+        <form action="payment.php" method="POST">
+            <input type="hidden" name="item_id" value="49"> <!-- Replace '1' with the actual item ID -->
+            <input type="hidden" name="item_name" value="Sofa">
+            <input type="hidden" name="item_price" value="10000">
+            <button class="buy" type="submit">Buy Now</button>
+        </form>
+</div>
         </div>
         <div class="image-box-home">
           <img src="home1/home16.jpg" alt="Image 4">
-          <span>Shop Now</span>
+          
+<div class="AddToCart">
+      <form action="add_to_cart.php" method="POST" style="display: inline;">
+            <input type="hidden" name="item_id" value="50"> <!-- Replace '1' with the actual item ID -->
+            <button class="addtocart" type="submit">Add To Cart</button>
+        </form>
+        <form action="payment.php" method="POST">
+            <input type="hidden" name="item_id" value="50"> <!-- Replace '1' with the actual item ID -->
+            <input type="hidden" name="item_name" value="Sofa">
+            <input type="hidden" name="item_price" value="10000">
+            <button class="buy" type="submit">Buy Now</button>
+        </form>
+</div>
         </div>
         <div class="image-box-home">
           <img src="home1/home17.jpg" alt="Image 5">
-          <span>Shop Now</span>
+          
+<div class="AddToCart">
+      <form action="add_to_cart.php" method="POST" style="display: inline;">
+            <input type="hidden" name="item_id" value="51"> <!-- Replace '1' with the actual item ID -->
+            <button class="addtocart" type="submit">Add To Cart</button>
+        </form>
+        <form action="payment.php" method="POST">
+            <input type="hidden" name="item_id" value="51"> <!-- Replace '1' with the actual item ID -->
+            <input type="hidden" name="item_name" value="Sofa">
+            <input type="hidden" name="item_price" value="10000">
+            <button class="buy" type="submit">Buy Now</button>
+        </form>
+</div>
         </div>
         <div class="image-box-home">
           <img src="home1/home18.jpg" alt="Image 6">
-          <span>Shop Now</span>
+          
+<div class="AddToCart">
+      <form action="add_to_cart.php" method="POST" style="display: inline;">
+            <input type="hidden" name="item_id" value="52"> <!-- Replace '1' with the actual item ID -->
+            <button class="addtocart" type="submit">Add To Cart</button>
+        </form>
+        <form action="payment.php" method="POST">
+            <input type="hidden" name="item_id" value="52"> <!-- Replace '1' with the actual item ID -->
+            <input type="hidden" name="item_name" value="Sofa">
+            <input type="hidden" name="item_price" value="10000">
+            <button class="buy" type="submit">Buy Now</button>
+        </form>
+</div>
         </div>
       </div>
       <br><br><hr><br>
@@ -159,15 +447,3 @@
 
 
 
-<div class="AddToCart">
-      <form action="add_to_cart.php" method="POST" style="display: inline;">
-            <input type="hidden" name="item_id" value="12"> <!-- Replace '1' with the actual item ID -->
-            <button class="addtocart" type="submit">Add To Cart</button>
-        </form>
-        <form action="payment.php" method="POST">
-            <input type="hidden" name="item_id" value="12"> <!-- Replace '1' with the actual item ID -->
-            <input type="hidden" name="item_name" value="Sofa">
-            <input type="hidden" name="item_price" value="10000">
-            <button class="buy" type="submit">Buy Now</button>
-        </form>
-        </div>
