@@ -154,3 +154,20 @@
       <?php include("footer.php")?>
 </body>
 </html>
+
+
+
+
+
+<div class="AddToCart">
+      <form action="add_to_cart.php" method="POST" style="display: inline;">
+            <input type="hidden" name="item_id" value="12"> <!-- Replace '1' with the actual item ID -->
+            <button class="addtocart" type="submit">Add To Cart</button>
+        </form>
+        <form action="payment.php" method="POST">
+            <input type="hidden" name="item_id" value="12"> <!-- Replace '1' with the actual item ID -->
+            <input type="hidden" name="item_name" value="Sofa">
+            <input type="hidden" name="item_price" value="10000">
+            <button class="buy" type="submit">Buy Now</button>
+        </form>
+        </div>
