@@ -8,108 +8,106 @@
   <link rel="stylesheet" href="style1.css">
 </head>
 <body>
-<?php include("header.php");?>
-       <div class="slider">
-            <figure>
-              <div class="slide">
-                <img src="home1/hero-bedshit.gif"alt="hero img">
-              </div>
-            </figure>
+  <?php include("header.php");?>
+  <div class="slider">
+    <figure>
+      <div class="slide">
+        <img src="fashion/dress-hero.webp"alt="hero img">
       </div>
+    </figure>
+</div>
 
       <div class="image-container-home">
         <div class="image-box-home">
-          <img src="home1/bedshit.1.jpg" alt="Image 1">
+          <img src="fashion/fashion.webp" alt="Image 1">
           <span>Shop Now</span>
         </div>
         <div class="image-box-home">
-          <img src="home1/bedshit.2.jpg" alt="Image 2">
+          <img src="fashion/fashion1.webp" alt="Image 2">
           <span>Shop Now</span>
         </div>
         <div class="image-box-home">
-          <img src="home1/bedshit.5.jpg" alt="Image 3">
+          <img src="fashion/fashion2.webp" alt="Image 3">
           <span>Shop Now</span>
         </div>
         <div class="image-box-home">
-          <img src="home1/bedshit.4.jpg" alt="Image 4">
+          <img src="fashion/dress3.webp" alt="Image 4">
           <span>Shop Now</span>
         </div>
         <div class="image-box-home">
-          <img src="home1/bedshit.3.jpg" alt="Image 5">
+          <img src="fashion/dress4.webp" alt="Image 5">
           <span>Shop Now</span>
         </div>
         <div class="image-box-home">
-          <img src="home1/bedshit.6.jpg" alt="Image 6">
+          <img src="fashion/dress5.webp" alt="Image 6">
           <span>Shop Now</span>
         </div>
       </div>
-      
       <div class="slider" id="div2">
         <figure>
           <div class="slide">
-            <img src="home1/hero-home.jpg"alt="hero img">
+            <img src="fashion/fashion-hero6.webp"alt="hero img">
           </div>
-          </figure>
-      </div>
+        </figure>
+  </div>
       <div class="image-container-home">
         <div class="image-box-home">
-          <img src="home1/home.1.jpg" alt="Image 1">
+          <img src="fashion/fashion7.webp" alt="Image 1">
           <span>Shop Now</span>
         </div>
         <div class="image-box-home">
-          <img src="home1/home.2.jpg" alt="Image 2">
+          <img src="fashion/fashion8.webp" alt="Image 2">
           <span>Shop Now</span>
         </div>
         <div class="image-box-home">
-          <img src="home1/home.3.jpg" alt="Image 3">
+          <img src="fashion/fashion9.webp" alt="Image 3">
           <span>Shop Now</span>
         </div>
         <div class="image-box-home">
-          <img src="home1/home.4.jpg" alt="Image 4">
+          <img src="fashion/fashion10.webp" alt="Image 4">
           <span>Shop Now</span>
         </div>
         <div class="image-box-home">
-          <img src="home1/home.5.jpg" alt="Image 5">
+          <img src="fashion/fashion3.webp" alt="Image 5">
           <span>Shop Now</span>
         </div>
         <div class="image-box-home">
-          <img src="home1/home.6.jpg" alt="Image 6">
+          <img src="fashion/fashion11.webp" alt="Image 6">
           <span>Shop Now</span>
         </div>
       </div>
 
 
-      <div class="bath" id="div3">
-      <div class="slider1">
+      <div class="slider" id="div3">
         <figure>
-          <div class="slide1">
-            <img src="home1/hero-home-1.jpg"alt="hero img">
+          <div class="slide">
+            <img src="fashion/shose-hero3.webp"alt="hero img">
           </div>
-          </figure>
-      </div>
+        </figure>
+  </div>
       <div class="image-container-home1">
         <div class="image-box-home1">
-          <img src="home1/home.7.jpg" alt="Image 1">
+          <img src="fashion/shose.webp" alt="Image 1">
           <span>Shop Now</span>
         </div>
         <div class="image-box-home1">
-          <img src="home1/home.8.jpg" alt="Image 2">
+          <img src="fashion/shose1.webp" alt="Image 2">
           <span>Shop Now</span>
         </div>
         <div class="image-box-home1">
-          <img src="home1/home.9.jpg" alt="Image 3">
+          <img src="fashion/shose2.webp" alt="Image 3">
           <span>Shop Now</span>
         </div>
         <div class="image-box-home1">
-          <img src="home1/home.10.jpg" alt="Image 4">
+          <img src="fashion/shose3.webp" alt="Image 4">
           <span>Shop Now</span>
         </div>
         <div class="image-box-home1">
-          <img src="home1/home.11.jpg" alt="Image 5">
+          <img src="fashion/shose4.webp" alt="Image 5">
           <span>Shop Now</span>
         </div>
         <div class="image-box-home1">
-          <img src="home1/home.12.jpg" alt="Image 6">
+          <img src="fashion/shose5.webp" alt="Image 6">
           <span>Shop Now</span>
         </div>
       </div>
@@ -119,33 +117,33 @@
       <div class="slider" id="div4">
         <figure>
           <div class="slide">
-            <img src="home1/hero-home-2.gif"alt="hero img">
+            <img src="fashion/fashion-hero.webp"alt="hero img">
           </div>
-          </figure>
-      </div>
+        </figure>
+  </div>
       <div class="image-container-home">
         <div class="image-box-home">
-          <img src="home1/home13.jpg" alt="Image 1">
+          <img src="fashion/dress.webp" alt="Image 1">
           <span>Shop Now</span>
         </div>
         <div class="image-box-home">
-          <img src="home1/home14.jpg" alt="Image 2">
+          <img src="fashion/dress1.webp" alt="Image 2">
           <span>Shop Now</span>
         </div>
         <div class="image-box-home">
-          <img src="home1/home15.jpg" alt="Image 3">
+          <img src="fashion/dress2.webp" alt="Image 3">
           <span>Shop Now</span>
         </div>
         <div class="image-box-home">
-          <img src="home1/home16.jpg" alt="Image 4">
+          <img src="fashion/fashion4.webp" alt="Image 4">
           <span>Shop Now</span>
         </div>
         <div class="image-box-home">
-          <img src="home1/home17.jpg" alt="Image 5">
+          <img src="fashion/fashion5.webp" alt="Image 5">
           <span>Shop Now</span>
         </div>
         <div class="image-box-home">
-          <img src="home1/home18.jpg" alt="Image 6">
+          <img src="fashion/fashion6.webp" alt="Image 6">
           <span>Shop Now</span>
         </div>
       </div>
